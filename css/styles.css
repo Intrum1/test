@@ -136,20 +136,17 @@ padding: 40px 20px;
   /* width: 176px; */
   flex-direction: column;
   justify-content: center;
-  /* border-radius: 200px;
-background: #A1C487;  */
+ 
 
 }
+
 .girl-works {
   margin-top: 20px;
   /* padding-left: 39px;
   padding-right: 38px; */
 }
 
-ol::marker {
-  color: hotpink;
-}
 
-li:first-child::marker {
-  font-size: 5rem;
+li::marker {
+  
 }
