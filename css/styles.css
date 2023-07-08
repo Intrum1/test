@@ -1,12 +1,7 @@
 :root {
-  --title-color: #2e2f42;
-  --white-title-color: #ffffff;
-  --logo-color: #4d5ae5;
-  --hover-color: #434455;
-  --background-color: #404bbf;
-  --background-team-color: #f4f4fd;
-  --btn-color: #e7e9fc;
-  --link-customes: #8e8f99;
+  --works-step: #FAF3E7;
+  --subtitle-color: #141414;
+  
 }
 
 *,
